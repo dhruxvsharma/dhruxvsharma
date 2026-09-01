@@ -278,17 +278,7 @@ Creative Tech
 
 ---
 
-## `05` — Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruxvsharma&bg_color=00000000&color=666666&line=111111&point=111111&area=true&hide_border=true" width="100%"/>
-
-</p>
-
----
-
-## `06` — Find me
+## `05` — Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/dhruxvsharma)
 [![X](https://img.shields.io/badge/X-111111?style=flat-square\&logo=x\&logoColor=white)](https://x.com/Dhruxvsharma)
