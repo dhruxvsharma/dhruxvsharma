@@ -308,19 +308,7 @@ Creative Tech
 
 ---
 
-## `07` — A little more human
-
-I like interfaces that feel **obvious without being boring**.
-
-I'm interested in the tiny details — motion, feedback, hierarchy, discoverability, weird interactions — that make something feel good to use.
-
-And yes, I use AI to code.
-
-**Vibe coding is just prototyping with a slightly faster intern.**
-
----
-
-## `08` — Find me
+## `07` — Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/dhruxvsharma)
 [![X](https://img.shields.io/badge/X-111111?style=flat-square\&logo=x\&logoColor=white)](https://x.com/Dhruxvsharma)
