@@ -1,158 +1,238 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,50:444444,100:111111&height=180&section=header&text=DHRUV%20SHARMA&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Designer%20·%20Thinker%20·%20Vibe%20Coder&descAlignY=68&descSize=15&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:09090b,50:27272a,100:09090b&height=200&section=header&text=DHRUV%20SHARMA&fontSize=38&fontColor=fafafa&fontAlignY=42&animation=fadeIn&desc=DESIGNER%20/%20THINKER%20/%20VIBE%20CODER&descAlignY=62&descSize=13&descColor=a1a1aa" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3200&pause=900&color=888888&center=true&vCenter=true&width=560&lines=I+design+things%2C+break+things...;...and+occasionally+make+them+work.;Vibe+coding+is+just+prototyping%2C+faster." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=71717A&center=true&vCenter=true&width=520&lines=I+design+things%2C+break+things...;...and+occasionally+make+them+work.;Vibe+coding+is+just+prototyping%2C+faster." alt="typing"/>
+
+<br/><br/>
+
+<a href="https://github.com/dhruxvsharma"><img src="https://img.shields.io/badge/GITHUB-18181b?style=flat-square&logo=github&logoColor=fafafa&labelColor=09090b" height="28"/></a>&nbsp;<a href="https://x.com/Dhruxvsharma"><img src="https://img.shields.io/badge/X-18181b?style=flat-square&logo=x&logoColor=fafafa&labelColor=09090b" height="28"/></a>&nbsp;<a href="https://www.linkedin.com/in/dhruxvsharma/"><img src="https://img.shields.io/badge/LINKEDIN-18181b?style=flat-square&logo=linkedin&logoColor=fafafa&labelColor=09090b" height="28"/></a>&nbsp;<a href="mailto:work.dhruxv@gmail.com"><img src="https://img.shields.io/badge/EMAIL-18181b?style=flat-square&logo=gmail&logoColor=fafafa&labelColor=09090b" height="28"/></a>
 
 </div>
 
 <br/>
 
-I'm a designer exploring the space between **design, technology, and interaction**. My work moves across UI/UX, visual design, creative coding, spatial experiences, and whatever interesting problem I'm currently obsessed with.
-
-I don't really think of myself as a developer — I just like building enough to turn an idea into something people can actually experience.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/dhruxvsharma)
-[![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/Dhruxvsharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruxvsharma/)
-[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:work.dhruxv@gmail.com)
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
+</p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1"/>
-
-## &nbsp;What I Do
-
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
-<br/>
+<td align="center">
 
-**Design**
-
-<sub>UI/UX · Interaction Design<br/>Visual Systems · Prototyping<br/>Design Research</sub>
-
+I'm a designer exploring the space between **design, technology, and interaction** — moving across UI/UX, visual design, creative coding, and spatial experiences.
 <br/><br/>
-</td>
-<td width="33%" align="center" valign="top">
-<br/>
+I don't really think of myself as a developer. I just like building enough to turn an idea into something people can actually experience.
 
-**Build**
-
-<sub>Web Experiences · Creative Coding<br/>3D · Interactive Prototypes<br/>Vibe Coding</sub>
-
-<br/><br/>
-</td>
-<td width="33%" align="center" valign="top">
-<br/>
-
-**Explore**
-
-<sub>AI × Design · Spatial Computing<br/>Emerging Interfaces · Motion<br/>Experimental Interaction</sub>
-
-<br/><br/>
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1"/>
+<br/>
 
-## &nbsp;Selected Work
-
-<sub>Things I've been thinking about, designing, and building.</sub>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
+</p>
 
 <br/>
 
-<table width="100%">
+<div align="center">
+
+![](https://img.shields.io/badge/WHAT%20I%20DO-09090b?style=flat-square&labelColor=e4e4e7&color=09090b)
+
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+
+<td align="center" width="33.3%" valign="top">
+
+<h3>Design</h3>
+<sub>
+UI / UX&nbsp;&nbsp;·&nbsp;&nbsp;Interaction Design<br/>
+Visual Systems&nbsp;&nbsp;·&nbsp;&nbsp;Prototyping<br/>
+Design Research
+</sub>
+
+</td>
+
+<td align="center" width="33.3%" valign="top">
+
+<h3>Build</h3>
+<sub>
+Web Experiences&nbsp;&nbsp;·&nbsp;&nbsp;Creative Coding<br/>
+3D&nbsp;&nbsp;·&nbsp;&nbsp;Interactive Prototypes<br/>
+Vibe Coding
+</sub>
+
+</td>
+
+<td align="center" width="33.3%" valign="top">
+
+<h3>Explore</h3>
+<sub>
+AI × Design&nbsp;&nbsp;·&nbsp;&nbsp;Spatial Computing<br/>
+Emerging Interfaces&nbsp;&nbsp;·&nbsp;&nbsp;Motion<br/>
+Experimental Interaction
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
+</p>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/SELECTED%20WORK-09090b?style=flat-square&labelColor=e4e4e7&color=09090b)
+
+<br/>
+<sub>Things I've been thinking about, designing, and building.</sub>
+
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+
 <tr>
 <td width="50%" valign="top">
-<img src="https://placehold.co/900x560/f5f5f5/111111?text=LEETCODE+FOR+DESIGNERS" width="100%"/>
-<br/><br/>
+<img src="https://placehold.co/900x520/18181b/71717a?text=LEETCODE+FOR+DESIGNERS&font=roboto" width="100%"/>
+
+<br/>
 
 **LeetCode for Designers**
+<br/>
+<sub>A practice platform where designers solve problems, submit work, compare approaches, and learn from others.</sub>
 
-A practice platform where designers solve problems, submit work, compare approaches, and learn from others.
+<br/><br/>
 
-`Product Design` `UI/UX` `React` `AI`
+![](https://img.shields.io/badge/Product_Design-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/UI/UX-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/React-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/AI-18181b?style=flat-square&labelColor=27272a&color=18181b)
 
-**→ View project**
+<br/>
+
+[![](https://img.shields.io/badge/VIEW%20PROJECT%20→-fafafa?style=flat-square&labelColor=fafafa&color=fafafa)](#)
 
 </td>
+
 <td width="50%" valign="top">
-<img src="https://placehold.co/900x560/f5f5f5/111111?text=TOUCHLESS+KIOSK" width="100%"/>
-<br/><br/>
+<img src="https://placehold.co/900x520/18181b/71717a?text=TOUCHLESS+KIOSK&font=roboto" width="100%"/>
+
+<br/>
 
 **Touchless Kiosk**
+<br/>
+<sub>Research exploring how first-time users discover and understand gestures in touchless public information kiosks.</sub>
 
-Research exploring how first-time users discover and understand gestures in touchless public information kiosks.
+<br/><br/>
 
-`UX Research` `HCI` `Interaction`
+![](https://img.shields.io/badge/UX_Research-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/HCI-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/Interaction-18181b?style=flat-square&labelColor=27272a&color=18181b)
 
-**→ View research**
+<br/>
+
+[![](https://img.shields.io/badge/VIEW%20RESEARCH%20→-fafafa?style=flat-square&labelColor=fafafa&color=fafafa)](#)
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td width="50%" valign="top">
-<img src="https://placehold.co/900x560/f5f5f5/111111?text=CAB+COMPARISON" width="100%"/>
-<br/><br/>
+<img src="https://placehold.co/900x520/18181b/71717a?text=CAB+COMPARISON&font=roboto" width="100%"/>
+
+<br/>
 
 **Cab Comparison**
+<br/>
+<sub>Understanding why people switch between multiple ride-hailing apps to compare price, availability, and trust.</sub>
 
-Understanding why people switch between multiple ride-hailing apps to compare price, availability, and trust.
-
-`Ethnography` `UX Research` `Service Design`
-
-**→ View project**
-
-</td>
-<td width="50%" valign="top">
-<img src="https://placehold.co/900x560/f5f5f5/111111?text=SPATIAL+EXPERIMENTS" width="100%"/>
 <br/><br/>
 
+![](https://img.shields.io/badge/Ethnography-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/UX_Research-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/Service_Design-18181b?style=flat-square&labelColor=27272a&color=18181b)
+
+<br/>
+
+[![](https://img.shields.io/badge/VIEW%20PROJECT%20→-fafafa?style=flat-square&labelColor=fafafa&color=fafafa)](#)
+
+</td>
+
+<td width="50%" valign="top">
+<img src="https://placehold.co/900x520/18181b/71717a?text=SPATIAL+EXPERIMENTS&font=roboto" width="100%"/>
+
+<br/>
+
 **Spatial Experiments**
+<br/>
+<sub>Experiments around VR, AR, gesture interaction, and interfaces beyond the screen.</sub>
 
-Experiments around VR, AR, gesture interaction, and interfaces beyond the screen.
+<br/><br/>
 
-`VR` `AR` `ShapesXR` `A-Frame`
+![](https://img.shields.io/badge/VR-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/AR-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/ShapesXR-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/A--Frame-18181b?style=flat-square&labelColor=27272a&color=18181b)
 
-**→ Explore experiments**
+<br/>
+
+[![](https://img.shields.io/badge/EXPLORE%20→-fafafa?style=flat-square&labelColor=fafafa&color=fafafa)](#)
 
 </td>
 </tr>
+
 </table>
 
 <div align="center">
 <sub>More experiments → <a href="https://github.com/dhruxvsharma">github.com/dhruxvsharma</a></sub>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1"/>
+<br/>
 
-## &nbsp;Currently
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
+</p>
 
-<table width="100%">
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/CURRENTLY-09090b?style=flat-square&labelColor=e4e4e7&color=09090b)
+
+</div>
+
+<br/>
+
+<table align="center" width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 **What I'm working on**
 
-`01` &nbsp;Designing interfaces & experiences
-`02` &nbsp;Building with code + AI
-`03` &nbsp;Exploring spatial computing
-`04` &nbsp;Learning by making
+<sub>
+
+`01` Designing interfaces & experiences
+`02` Building with code + AI
+`03` Exploring spatial computing
+`04` Learning by making
+
+</sub>
 
 </td>
-<td width="35%" valign="top">
+<td width="40%" valign="top" align="center">
 
 **Status**
 
-🟢 &nbsp;Available for interesting work
+![](https://img.shields.io/badge/●%20AVAILABLE%20FOR%20WORK-18181b?style=flat-square&labelColor=18181b&color=22c55e)
 
 <sub>Design · Research · Creative Tech</sub>
 
@@ -160,72 +240,108 @@ Experiments around VR, AR, gesture interaction, and interfaces beyond the screen
 </tr>
 </table>
 
-> I'm particularly interested in the space where design stops being pixels and starts becoming an experience.
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1"/>
+<p align="center">
+<sub><i>"I'm particularly interested in the space where design stops being pixels<br/>and starts becoming an experience."</i></sub>
+</p>
 
-## &nbsp;Toolkit
+<br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-111111?style=flat-square&logo=autodesk&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**Build**
-
-![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat-square&logo=threedotjs&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**Creative Tech**
-
-![A-Frame](https://img.shields.io/badge/A--Frame-111111?style=flat-square)
-![WebGL](https://img.shields.io/badge/WebGL-111111?style=flat-square&logo=webgl&logoColor=white)
-![ShapesXR](https://img.shields.io/badge/ShapesXR-111111?style=flat-square)
-![AI](https://img.shields.io/badge/AI--assisted_building-111111?style=flat-square)
-
-<sub>I use whatever gets the idea across.</sub>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1"/>
-
-## &nbsp;A Little More Human
-
-I like interfaces that feel **obvious without being boring**. I'm interested in the tiny details — motion, feedback, hierarchy, discoverability, weird interactions — that make something feel good to use.
-
-And yes, I use AI to code. **Vibe coding is just prototyping with a slightly faster intern.**
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
+</p>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,50:444444,100:111111&height=120&section=footer"/>
+![](https://img.shields.io/badge/TOOLKIT-09090b?style=flat-square&labelColor=e4e4e7&color=09090b)
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/dhruxvsharma)
-[![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/Dhruxvsharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruxvsharma/)
-[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:work.dhruxv@gmail.com)
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+**Design**
+<br/><br/>
+
+![](https://img.shields.io/badge/Figma-18181b?style=flat-square&logo=figma&logoColor=fafafa&labelColor=18181b)
+![](https://img.shields.io/badge/Photoshop-18181b?style=flat-square&logo=adobephotoshop&logoColor=fafafa&labelColor=18181b)
+![](https://img.shields.io/badge/Illustrator-18181b?style=flat-square&logo=adobeillustrator&logoColor=fafafa&labelColor=18181b)
+<br/>
+![](https://img.shields.io/badge/Blender-18181b?style=flat-square&logo=blender&logoColor=fafafa&labelColor=18181b)
+![](https://img.shields.io/badge/Fusion_360-18181b?style=flat-square&logo=autodesk&logoColor=fafafa&labelColor=18181b)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**Build**
+<br/><br/>
+
+![](https://img.shields.io/badge/HTML-18181b?style=flat-square&logo=html5&logoColor=fafafa&labelColor=18181b)
+![](https://img.shields.io/badge/CSS-18181b?style=flat-square&logo=css3&logoColor=fafafa&labelColor=18181b)
+![](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=fafafa&labelColor=18181b)
+<br/>
+![](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=fafafa&labelColor=18181b)
+![](https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=fafafa&labelColor=18181b)
+![](https://img.shields.io/badge/Three.js-18181b?style=flat-square&logo=threedotjs&logoColor=fafafa&labelColor=18181b)
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<br/>
+
+**Creative Tech**
+<br/><br/>
+
+![](https://img.shields.io/badge/A--Frame-18181b?style=flat-square&labelColor=18181b)
+![](https://img.shields.io/badge/WebGL-18181b?style=flat-square&logo=webgl&logoColor=fafafa&labelColor=18181b)
+![](https://img.shields.io/badge/ShapesXR-18181b?style=flat-square&labelColor=18181b)
+![](https://img.shields.io/badge/AI--Assisted%20Building-18181b?style=flat-square&labelColor=18181b)
+
+<br/><br/>
+<sub><i>I use whatever gets the idea across.</i></sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
+</p>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td align="center">
+
+I like interfaces that feel **obvious without being boring**. I'm interested in the tiny details — motion, feedback, hierarchy, discoverability, weird interactions — that make something feel good to use.
+<br/><br/>
+And yes, I use AI to code. <b>Vibe coding is just prototyping with a slightly faster intern.</b>
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:09090b,50:27272a,100:09090b&height=110&section=footer" width="100%"/>
+
+<a href="https://github.com/dhruxvsharma"><img src="https://img.shields.io/badge/GITHUB-18181b?style=flat-square&logo=github&logoColor=fafafa&labelColor=09090b" height="26"/></a>&nbsp;<a href="https://x.com/Dhruxvsharma"><img src="https://img.shields.io/badge/X-18181b?style=flat-square&logo=x&logoColor=fafafa&labelColor=09090b" height="26"/></a>&nbsp;<a href="https://www.linkedin.com/in/dhruxvsharma/"><img src="https://img.shields.io/badge/LINKEDIN-18181b?style=flat-square&logo=linkedin&logoColor=fafafa&labelColor=09090b" height="26"/></a>&nbsp;<a href="mailto:work.dhruxv@gmail.com"><img src="https://img.shields.io/badge/EMAIL-18181b?style=flat-square&logo=gmail&logoColor=fafafa&labelColor=09090b" height="26"/></a>
+
+<br/><br/>
 
 <sub>© 2026 Dhruv Sharma &nbsp;·&nbsp; design → prototype → build → break → repeat</sub>
 
