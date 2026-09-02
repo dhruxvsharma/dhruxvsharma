@@ -50,7 +50,7 @@ I've been diving deep into:
 
 Interested in collaboration, ideas, or just nerding out about design?
 
-[**Twitter**](https://x.com/Dhruxvsharma) · [**Linkedin**]([https://dribbble.com](https://www.linkedin.com/in/dhruxvsharma/) · [**Email**](mailto:work.dhruvx@gmail.com)
+[**Twitter**](https://x.com/Dhruxvsharma) · [**Linkedin**](https://www.linkedin.com/in/dhruxvsharma/) · [**Email**](mailto:work.dhruvx@gmail.com)
 
 ---
 
