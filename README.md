@@ -1,348 +1,339 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:09090b,50:27272a,100:09090b&height=200&section=header&text=DHRUV%20SHARMA&fontSize=38&fontColor=fafafa&fontAlignY=42&animation=fadeIn&desc=DESIGNER%20/%20THINKER%20/%20VIBE%20CODER&descAlignY=62&descSize=13&descColor=a1a1aa" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=71717A&center=true&vCenter=true&width=520&lines=I+design+things%2C+break+things...;...and+occasionally+make+them+work.;Vibe+coding+is+just+prototyping%2C+faster." alt="typing"/>
-
-<br/><br/>
-
-<a href="https://github.com/dhruxvsharma"><img src="https://img.shields.io/badge/GITHUB-18181b?style=flat-square&logo=github&logoColor=fafafa&labelColor=09090b" height="28"/></a>&nbsp;<a href="https://x.com/Dhruxvsharma"><img src="https://img.shields.io/badge/X-18181b?style=flat-square&logo=x&logoColor=fafafa&labelColor=09090b" height="28"/></a>&nbsp;<a href="https://www.linkedin.com/in/dhruxvsharma/"><img src="https://img.shields.io/badge/LINKEDIN-18181b?style=flat-square&logo=linkedin&logoColor=fafafa&labelColor=09090b" height="28"/></a>&nbsp;<a href="mailto:work.dhruxv@gmail.com"><img src="https://img.shields.io/badge/EMAIL-18181b?style=flat-square&logo=gmail&logoColor=fafafa&labelColor=09090b" height="28"/></a>
-
-</div>
-
-<br/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
-</p>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-I'm a designer exploring the space between **design, technology, and interaction** — moving across UI/UX, visual design, creative coding, and spatial experiences.
-<br/><br/>
-I don't really think of myself as a developer. I just like building enough to turn an idea into something people can actually experience.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
-</p>
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/WHAT%20I%20DO-09090b?style=flat-square&labelColor=e4e4e7&color=09090b)
-
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-
-<td align="center" width="33.3%" valign="top">
-
-<h3>Design</h3>
-<sub>
-UI / UX&nbsp;&nbsp;·&nbsp;&nbsp;Interaction Design<br/>
-Visual Systems&nbsp;&nbsp;·&nbsp;&nbsp;Prototyping<br/>
-Design Research
-</sub>
-
-</td>
-
-<td align="center" width="33.3%" valign="top">
-
-<h3>Build</h3>
-<sub>
-Web Experiences&nbsp;&nbsp;·&nbsp;&nbsp;Creative Coding<br/>
-3D&nbsp;&nbsp;·&nbsp;&nbsp;Interactive Prototypes<br/>
-Vibe Coding
-</sub>
-
-</td>
-
-<td align="center" width="33.3%" valign="top">
-
-<h3>Explore</h3>
-<sub>
-AI × Design&nbsp;&nbsp;·&nbsp;&nbsp;Spatial Computing<br/>
-Emerging Interfaces&nbsp;&nbsp;·&nbsp;&nbsp;Motion<br/>
-Experimental Interaction
-</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
-</p>
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/SELECTED%20WORK-09090b?style=flat-square&labelColor=e4e4e7&color=09090b)
-
-<br/>
-<sub>Things I've been thinking about, designing, and building.</sub>
-
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-
-<tr>
-<td width="50%" valign="top">
-<img src="https://placehold.co/900x520/18181b/71717a?text=LEETCODE+FOR+DESIGNERS&font=roboto" width="100%"/>
-
-<br/>
-
-**LeetCode for Designers**
-<br/>
-<sub>A practice platform where designers solve problems, submit work, compare approaches, and learn from others.</sub>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/Product_Design-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/UI/UX-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/React-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/AI-18181b?style=flat-square&labelColor=27272a&color=18181b)
-
-<br/>
-
-[![](https://img.shields.io/badge/VIEW%20PROJECT%20→-fafafa?style=flat-square&labelColor=fafafa&color=fafafa)](#)
-
-</td>
-
-<td width="50%" valign="top">
-<img src="https://placehold.co/900x520/18181b/71717a?text=TOUCHLESS+KIOSK&font=roboto" width="100%"/>
-
-<br/>
-
-**Touchless Kiosk**
-<br/>
-<sub>Research exploring how first-time users discover and understand gestures in touchless public information kiosks.</sub>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/UX_Research-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/HCI-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/Interaction-18181b?style=flat-square&labelColor=27272a&color=18181b)
-
-<br/>
-
-[![](https://img.shields.io/badge/VIEW%20RESEARCH%20→-fafafa?style=flat-square&labelColor=fafafa&color=fafafa)](#)
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-<img src="https://placehold.co/900x520/18181b/71717a?text=CAB+COMPARISON&font=roboto" width="100%"/>
-
-<br/>
-
-**Cab Comparison**
-<br/>
-<sub>Understanding why people switch between multiple ride-hailing apps to compare price, availability, and trust.</sub>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/Ethnography-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/UX_Research-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/Service_Design-18181b?style=flat-square&labelColor=27272a&color=18181b)
-
-<br/>
-
-[![](https://img.shields.io/badge/VIEW%20PROJECT%20→-fafafa?style=flat-square&labelColor=fafafa&color=fafafa)](#)
-
-</td>
-
-<td width="50%" valign="top">
-<img src="https://placehold.co/900x520/18181b/71717a?text=SPATIAL+EXPERIMENTS&font=roboto" width="100%"/>
-
-<br/>
-
-**Spatial Experiments**
-<br/>
-<sub>Experiments around VR, AR, gesture interaction, and interfaces beyond the screen.</sub>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/VR-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/AR-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/ShapesXR-18181b?style=flat-square&labelColor=27272a&color=18181b) ![](https://img.shields.io/badge/A--Frame-18181b?style=flat-square&labelColor=27272a&color=18181b)
-
-<br/>
-
-[![](https://img.shields.io/badge/EXPLORE%20→-fafafa?style=flat-square&labelColor=fafafa&color=fafafa)](#)
-
-</td>
-</tr>
-
-</table>
-
-<div align="center">
-<sub>More experiments → <a href="https://github.com/dhruxvsharma">github.com/dhruxvsharma</a></sub>
-</div>
-
-<br/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
-</p>
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/CURRENTLY-09090b?style=flat-square&labelColor=e4e4e7&color=09090b)
-
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td width="60%" valign="top">
-
-**What I'm working on**
-
-<sub>
-
-`01` Designing interfaces & experiences
-`02` Building with code + AI
-`03` Exploring spatial computing
-`04` Learning by making
-
-</sub>
-
-</td>
-<td width="40%" valign="top" align="center">
-
-**Status**
-
-![](https://img.shields.io/badge/●%20AVAILABLE%20FOR%20WORK-18181b?style=flat-square&labelColor=18181b&color=22c55e)
-
-<sub>Design · Research · Creative Tech</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<p align="center">
-<sub><i>"I'm particularly interested in the space where design stops being pixels<br/>and starts becoming an experience."</i></sub>
-</p>
-
-<br/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
-</p>
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/TOOLKIT-09090b?style=flat-square&labelColor=e4e4e7&color=09090b)
-
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-**Design**
-<br/><br/>
-
-![](https://img.shields.io/badge/Figma-18181b?style=flat-square&logo=figma&logoColor=fafafa&labelColor=18181b)
-![](https://img.shields.io/badge/Photoshop-18181b?style=flat-square&logo=adobephotoshop&logoColor=fafafa&labelColor=18181b)
-![](https://img.shields.io/badge/Illustrator-18181b?style=flat-square&logo=adobeillustrator&logoColor=fafafa&labelColor=18181b)
-<br/>
-![](https://img.shields.io/badge/Blender-18181b?style=flat-square&logo=blender&logoColor=fafafa&labelColor=18181b)
-![](https://img.shields.io/badge/Fusion_360-18181b?style=flat-square&logo=autodesk&logoColor=fafafa&labelColor=18181b)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**Build**
-<br/><br/>
-
-![](https://img.shields.io/badge/HTML-18181b?style=flat-square&logo=html5&logoColor=fafafa&labelColor=18181b)
-![](https://img.shields.io/badge/CSS-18181b?style=flat-square&logo=css3&logoColor=fafafa&labelColor=18181b)
-![](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=fafafa&labelColor=18181b)
-<br/>
-![](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=fafafa&labelColor=18181b)
-![](https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=fafafa&labelColor=18181b)
-![](https://img.shields.io/badge/Three.js-18181b?style=flat-square&logo=threedotjs&logoColor=fafafa&labelColor=18181b)
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<br/>
-
-**Creative Tech**
-<br/><br/>
-
-![](https://img.shields.io/badge/A--Frame-18181b?style=flat-square&labelColor=18181b)
-![](https://img.shields.io/badge/WebGL-18181b?style=flat-square&logo=webgl&logoColor=fafafa&labelColor=18181b)
-![](https://img.shields.io/badge/ShapesXR-18181b?style=flat-square&labelColor=18181b)
-![](https://img.shields.io/badge/AI--Assisted%20Building-18181b?style=flat-square&labelColor=18181b)
-
-<br/><br/>
-<sub><i>I use whatever gets the idea across.</i></sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272a,50:71717a,100:27272a&height=2&width=1000" width="100%"/>
-</p>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-I like interfaces that feel **obvious without being boring**. I'm interested in the tiny details — motion, feedback, hierarchy, discoverability, weird interactions — that make something feel good to use.
-<br/><br/>
-And yes, I use AI to code. <b>Vibe coding is just prototyping with a slightly faster intern.</b>
-
-</td>
-</tr>
-</table>
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:09090b,50:27272a,100:09090b&height=110&section=footer" width="100%"/>
-
-<a href="https://github.com/dhruxvsharma"><img src="https://img.shields.io/badge/GITHUB-18181b?style=flat-square&logo=github&logoColor=fafafa&labelColor=09090b" height="26"/></a>&nbsp;<a href="https://x.com/Dhruxvsharma"><img src="https://img.shields.io/badge/X-18181b?style=flat-square&logo=x&logoColor=fafafa&labelColor=09090b" height="26"/></a>&nbsp;<a href="https://www.linkedin.com/in/dhruxvsharma/"><img src="https://img.shields.io/badge/LINKEDIN-18181b?style=flat-square&logo=linkedin&logoColor=fafafa&labelColor=09090b" height="26"/></a>&nbsp;<a href="mailto:work.dhruxv@gmail.com"><img src="https://img.shields.io/badge/EMAIL-18181b?style=flat-square&logo=gmail&logoColor=fafafa&labelColor=09090b" height="26"/></a>
-
-<br/><br/>
-
-<sub>© 2026 Dhruv Sharma &nbsp;·&nbsp; design → prototype → build → break → repeat</sub>
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dhruv • Designer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
+            background: #ffffff;
+            color: #1a1a1a;
+            line-height: 1.6;
+            letter-spacing: -0.3px;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            * {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes subtleGlow {
+            0%, 100% {
+                text-shadow: 0 0 0 rgba(26, 26, 26, 0);
+            }
+            50% {
+                text-shadow: 0 0 8px rgba(26, 26, 26, 0.08);
+            }
+        }
+
+        /* Container */
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 60px 40px;
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 40px 24px;
+            }
+        }
+
+        /* Hero Section */
+        .hero {
+            margin-bottom: 80px;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .name {
+            font-size: 3.5rem;
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 12px;
+            letter-spacing: -1.5px;
+        }
+
+        @media (max-width: 640px) {
+            .name {
+                font-size: 2.5rem;
+            }
+        }
+
+        .location {
+            font-size: 0.95rem;
+            color: #666;
+            margin-bottom: 32px;
+            letter-spacing: 0.5px;
+        }
+
+        .tagline {
+            font-size: 1.1rem;
+            color: #2a2a2a;
+            font-weight: 500;
+            margin-bottom: 20px;
+            letter-spacing: -0.2px;
+        }
+
+        .intro-text {
+            font-size: 0.95rem;
+            color: #555;
+            line-height: 1.8;
+            margin-bottom: 12px;
+        }
+
+        .intro-text:last-child {
+            margin-bottom: 0;
+        }
+
+        /* Divider */
+        .divider {
+            width: 32px;
+            height: 1px;
+            background: #ddd;
+            margin: 60px 0;
+            animation: fadeIn 1s ease-out 0.3s both;
+        }
+
+        /* Section */
+        .section {
+            margin-bottom: 60px;
+            animation: fadeInUp 0.8s ease-out both;
+        }
+
+        .section:nth-child(4) {
+            animation-delay: 0.2s;
+        }
+
+        .section:nth-child(5) {
+            animation-delay: 0.4s;
+        }
+
+        .section-title {
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            margin-bottom: 20px;
+            display: block;
+        }
+
+        /* Focus Areas */
+        .focus-list {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+
+        @media (max-width: 640px) {
+            .focus-list {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .focus-item {
+            padding: 16px 20px;
+            background: #fafafa;
+            border: 1px solid #efefef;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            color: #333;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .focus-item:hover {
+            background: #f5f5f5;
+            border-color: #ddd;
+            transform: translateY(-2px);
+        }
+
+        /* Approach */
+        .approach-item {
+            padding-bottom: 24px;
+            margin-bottom: 24px;
+            border-bottom: 1px solid #efefef;
+        }
+
+        .approach-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+
+        .approach-label {
+            font-size: 0.8rem;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        .approach-text {
+            font-size: 0.95rem;
+            color: #2a2a2a;
+            line-height: 1.7;
+        }
+
+        /* Links */
+        .links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            align-items: center;
+        }
+
+        .link-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 10px 16px;
+            background: #f5f5f5;
+            border: 1px solid #e0e0e0;
+            border-radius: 4px;
+            text-decoration: none;
+            color: #1a1a1a;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .link-item:hover {
+            background: #efefef;
+            border-color: #ccc;
+            transform: translateY(-2px);
+        }
+
+        .link-item::after {
+            content: '→';
+            font-size: 0.8em;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .link-item:hover::after {
+            opacity: 1;
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 80px;
+            padding-top: 40px;
+            border-top: 1px solid #efefef;
+            font-size: 0.8rem;
+            color: #999;
+            text-align: center;
+            animation: fadeIn 1s ease-out 0.6s both;
+        }
+
+        /* Accent hover effect */
+        .accent-word {
+            position: relative;
+            color: #1a1a1a;
+            transition: color 0.3s ease;
+        }
+
+        .accent-word:hover {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Hero -->
+        <section class="hero">
+            <h1 class="name">Dhruv</h1>
+            <p class="location">Jaipur, India</p>
+            <p class="tagline">Designer · Thinker · Vibe Coder</p>
+            <p class="intro-text">I design things, break things, and occasionally make them work.</p>
+            <p class="intro-text">I explore the space between design, technology, and interaction—where an idea meets the possibility of real experience.</p>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- What I Do -->
+        <section class="section">
+            <span class="section-title">Focus Areas</span>
+            <div class="focus-list">
+                <div class="focus-item">UI/UX Design</div>
+                <div class="focus-item">Visual Design</div>
+                <div class="focus-item">Creative Coding</div>
+                <div class="focus-item">Spatial Experiences</div>
+                <div class="focus-item">Interaction Design</div>
+                <div class="focus-item">Prototyping</div>
+            </div>
+        </section>
+
+        <!-- Approach -->
+        <section class="section">
+            <span class="section-title">My Approach</span>
+            
+            <div class="approach-item">
+                <span class="approach-label">Philosophy</span>
+                <p class="approach-text">I don't think of myself as a developer. I think of myself as someone who builds enough to turn an idea into something people can actually experience.</p>
+            </div>
+
+            <div class="approach-item">
+                <span class="approach-label">Process</span>
+                <p class="approach-text">I work intuitively, exploring and iterating. I let ideas evolve as I build them. There's something powerful about discovering the shape of a thing by making it.</p>
+            </div>
+
+            <div class="approach-item">
+                <span class="approach-label">What Excites Me</span>
+                <p class="approach-text">Problems that sit at the intersection of aesthetics, function, and human behavior. Any project interesting enough to become briefly obsessed with.</p>
+            </div>
+        </section>
+
+        <!-- Connect -->
+        <section class="section">
+            <span class="section-title">Let's Connect</span>
+            <div class="links">
+                <a href="https://twitter.com" class="link-item">Twitter</a>
+                <a href="https://dribbble.com" class="link-item">Dribbble</a>
+                <a href="mailto:your-email@example.com" class="link-item">Email</a>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Currently exploring design systems and interactive experiences</p>
+        </footer>
+    </div>
+</body>
+</html>
