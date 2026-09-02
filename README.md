@@ -4,7 +4,7 @@
 
 **Designer · Thinker · Vibe Coder** • Based in Jaipur, India
 
-I design things, break things, and occasionally make them work. I explore the space between **design, technology, and interaction**—where an idea meets the possibility of real experience.
+I design things, break things, and occasionally make them work. I explore the space between **design, technology, and interaction** where an idea meets the possibility of real experience.
 
 ---
 
@@ -50,7 +50,7 @@ I've been diving deep into:
 
 Interested in collaboration, ideas, or just nerding out about design?
 
-[**Twitter**](https://twitter.com) · [**Dribbble**](https://dribbble.com) · [**Email**](mailto:dhruv@example.com)
+[**Twitter**](https://x.com/Dhruxvsharma) · [**Linkedin**]([https://dribbble.com](https://www.linkedin.com/in/dhruxvsharma/) · [**Email**](mailto:work.dhruvx@gmail.com)
 
 ---
 
