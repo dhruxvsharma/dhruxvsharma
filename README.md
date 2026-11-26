@@ -1,36 +1,34 @@
-<div align="center">
+<p align="center">
+  <img src="banner.png" alt="Dhruv" width="100%" />
+</p>
 
-<img src="banner.png" alt="Dhruv" width="100%" />
+<h1 align="center">Dhruv</h1>
 
-<br>
+<p align="center">
+  <b>Designer &nbsp;·&nbsp; Thinker &nbsp;·&nbsp; Storyteller</b><br>
+  <sub>Jaipur, India</sub>
+</p>
 
-# Dhruv
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=FF6B35&center=true&vCenter=true&width=520&height=30&lines=I+design+things%2C+break+things%2C;and+occasionally+make+them+work.;Where+design%2C+tech+%26+interaction+meet." alt="Typing intro" />
+</p>
 
-**Designer · Thinker · Vibe Coder**
-<sub>Jaipur, India</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX-111111?style=for-the-badge" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Visual%20Design-111111?style=for-the-badge" alt="Visual Design" />
+  <img src="https://img.shields.io/badge/Creative%20Coding-111111?style=for-the-badge" alt="Creative Coding" />
+  <img src="https://img.shields.io/badge/Interaction-111111?style=for-the-badge" alt="Interaction" />
+  <img src="https://img.shields.io/badge/Spatial-111111?style=for-the-badge" alt="Spatial" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://x.com/Dhruxvsharma"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/dhruxvsharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:work.dhruvx@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-*I design things, break things, and occasionally make them work.*
-<br>
-*Exploring the space where design, technology and interaction meet.*
+<p align="center">
+  <sub>constantly learning · always building · figuring it out</sub>
+</p>
 
-<br>
-
-`UI/UX` &nbsp; `Visual Design` &nbsp; `Creative Coding` &nbsp; `Interaction` &nbsp; `Spatial`
-
-<br>
-
-**Currently exploring** &nbsp;→&nbsp; design systems that feel alive, and generative design with a human touch
-
-<br>
-
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Dhruxvsharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruxvsharma/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:work.dhruvx@gmail.com)
-
-<br>
-
-<sub>constantly learning · always building · figuring it out</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:111111&height=90&section=footer" width="100%" alt="" />
